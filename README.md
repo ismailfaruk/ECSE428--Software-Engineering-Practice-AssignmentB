@@ -22,6 +22,6 @@ Automated a typical case with varying the recipient and image being sent
 ## Authors
 
 * [**Ismail Faruk**](https://github.com/ismailfaruk)
-* [**Mustafa Khawaja**](https://www.linkedin.com/in/mustafa-khawaja-a30a3917b/)
+* [**Mustafa Khawaja**](https://github.com/Mustafakha)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
