@@ -1,6 +1,6 @@
 # [ECSE428--Software-Engineering-Practice-AssignmentB](https://www.mcgill.ca/study/2018-2019/courses/ecse-428)
 
-This reopository contains the assignment projects done for the course ECSE 428, using JavaScript/Java.
+This reopository contains the assignment projects done for the course ECSE 428, using Java.
 
 ## Description
 
