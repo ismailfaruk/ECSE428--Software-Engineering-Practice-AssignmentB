@@ -12,12 +12,11 @@ Automated a typical case with varying the recipient and image being sent
 
 ## Built With
 
-* [JavaScript](https://www.javascript.com/) - The programming language used
-* [NodeJS](https://nodejs.org/en/) -  JavaScript run-time environment that executes JavaScript code outside of a browser
-* [Cucumber](https://docs.cucumber.io/guides/overview/) - The tool that supports Behaviour-Driven Development(BDD).
-* [Gherkin](https://docs.cucumber.io/gherkin/) - The syntax for BDD
 * [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver) - The web driver used for automated testing
 * [Java](https://www.java.com/en/) - The programming language used
+* [Cucumber](https://docs.cucumber.io/guides/overview/) - The tool that supports Behaviour-Driven Development(BDD).
+* [Gherkin](https://docs.cucumber.io/gherkin/) - The syntax for BDD
+
 
 ## Authors
 
