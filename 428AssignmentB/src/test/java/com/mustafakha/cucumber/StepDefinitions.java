@@ -26,10 +26,6 @@ import cucumber.api.java.en.And;
 @CucumberOptions(features="Features",glue={"StepDefinitions"})
 public class StepDefinitions {
 
-    private final String INSERT_PHOTO = ":gw";
-    private final String URL_CLASS = "a-Cf a-Cf-V";
-    private final String URL_INPUT_CLASS = "Mf-Tl-Qc";
-    private final String INSERT_BTN = "picker:ap:2";
 	private final String HOME_PAGE1 = "https://mail.google.com/mail/";
 	private final String HOME_PAGE = "https://mail.google.com/mail/#inbox";
 	private final String SIGN_IN_PATH = ".//*[@id ='identifierNext']/content/span";
