@@ -12,11 +12,17 @@ Automated a typical case with varying the recipient and image being sent
 
 ## Built With
 
-* [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver) - The web driver used for automated testing
 * [Java](https://www.java.com/en/) - The programming language used
+* [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver) - The web driver used for automated testing
+* [Maven](https://maven.apache.org/index.html) - The software project management too used
+* [AutoIT Scripts](https://www.autoitscript.com/site/) - The scripting language used
+* [Eclipse Java Photon](https://www.eclipse.org/) - The IDE used
 * [Cucumber](https://docs.cucumber.io/guides/overview/) - The tool that supports Behaviour-Driven Development(BDD).
 * [Gherkin](https://docs.cucumber.io/gherkin/) - The syntax for BDD
 
+## Working Video
+
+* [Video of Automated Tests](https://drive.google.com/file/d/1cd9JAOKOJTgFGOW3xZkyil0NwvgKaTqC/view)
 
 ## Authors
 
