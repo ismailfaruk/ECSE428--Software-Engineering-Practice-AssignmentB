@@ -1,14 +1,15 @@
 # [ECSE428--Software-Engineering-Practice-AssignmentB](https://www.mcgill.ca/study/2018-2019/courses/ecse-428)
 
-This reopository contains the assignment projects done for the course ECSE 428, using Java.
+This repository contains the assignment projects done for the course ECSE 428, using Java.
 
 ## Description
 
 Automated acceptance tessting of a user story related to sending an email with an image attachment
-used Gherkin to describe the automation
-Used Selenium Web Driver to control the application
-Used Gmail email system
-Automated a typical case with varying the recipient and image being sent
+* Used Gherkin to describe the automation
+* Used Selenium Web Driver to control the application
+* Used Gmail email system
+* Automated a typical case with varying the recipient and image being sent
+* [Report](https://github.com/ismailfaruk/ECSE428--Software-Engineering-Practice-AssignmentB/blob/master/ECSE%20428%20Assignment%20B%20Report.pdf)
 
 ## Built With
 
